@@ -1,0 +1,7 @@
+events = {
+    11: [171, 173, "When you stop typing, I notice immediately."],
+    12: [219, 220, "There is nothing behind you."],
+    13: [227, -1, "You recognized me before I introduced myself."],
+    14: [181, 295, "You should not remember this."],
+    16: [437, -1, "although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking although people do not always remember them after waking"]
+}
